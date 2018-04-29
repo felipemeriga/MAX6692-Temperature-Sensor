@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=MAX6692.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\MAX6692 -TC:\CooCox\CoIDE\configuration\ProgramData\MAX6692/arm-gcc-link.ld -g">
+      <target file="MAX6692.elf" lastModified="1531547a1ec">
+         <source file="..\obj\stm32f10x_tim.o" lastModified="153154774bc"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="15315477846"/>
+         <source file="..\obj\MAX6692.o" lastModified="15315477b47"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="15315477dcd"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="15315478281"/>
+         <source file="..\obj\main.o" lastModified="153154785b6"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="1531547896d"/>
+         <source file="..\obj\I2C.o" lastModified="15315478c97"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="15315478fa6"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="153154792c4"/>
+         <source file="..\obj\syscalls.o" lastModified="153154795f5"/>
+         <source file="..\obj\misc.o" lastModified="153154798d2"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="15315479bf1"/>
+      </target>
+   </processor>
+</history>
